@@ -1,28 +1,2 @@
-/DLRL/Project/
-/DLRL/Classes/
-/UMLRS/Classes/
-Authors Code/
-Author Code/
-*.jpg
-*.png
-*.keras
-*.h5
-*.txt
-dataset/
-validation/
-val/
-test/
-train/
-dogs_vs_cats_small/
-*.mp4
-*.ipynb_checkpoints
-*xml
-*.env
 *.iml
-*.csv
-*.feat
-*.tgz
-
-/UMLRS/Project/Mini Project/
-/UMLRS/Project/ML3 mini project walkthrough.pdf
-/UMLRS/Project/UMLRS_PES2PGE25DS240.ipynb
+*.xml
